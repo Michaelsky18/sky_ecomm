@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div className="navbar-container">
       <p className="logo">
-        <Link href={"/"}>JSM HEAD</Link>
+        <Link href={"/"}>Sky Online</Link>
       </p>
       <button
         type="button"
